@@ -1,0 +1,14 @@
+@import "fonts";
+@import "vars";
+html{
+ box-sizing: border-box;
+}
+*, *:after, *:before{
+ box-sizing: inherit;
+}
+*{
+ margin: 0;
+ padding: 0;
+}
+
+@import "media";
